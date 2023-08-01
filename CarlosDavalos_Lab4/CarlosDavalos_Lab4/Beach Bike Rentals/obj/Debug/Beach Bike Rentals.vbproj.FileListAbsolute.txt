@@ -1,0 +1,12 @@
+C:\Users\carlos\source\repos\Beach Bike Rentals\obj\Debug\Beach Bike Rentals.vbproj.AssemblyReference.cache
+C:\Users\carlos\source\repos\Beach Bike Rentals\obj\Debug\Beach_Bike_Rentals.frmBike.resources
+C:\Users\carlos\source\repos\Beach Bike Rentals\obj\Debug\Beach_Bike_Rentals.Resources.resources
+C:\Users\carlos\source\repos\Beach Bike Rentals\obj\Debug\Beach Bike Rentals.vbproj.GenerateResource.cache
+C:\Users\carlos\source\repos\Beach Bike Rentals\obj\Debug\Beach Bike Rentals.vbproj.CoreCompileInputs.cache
+C:\Users\carlos\source\repos\Beach Bike Rentals\bin\Debug\Beach Bike Rentals.exe.config
+C:\Users\carlos\source\repos\Beach Bike Rentals\bin\Debug\Beach Bike Rentals.exe
+C:\Users\carlos\source\repos\Beach Bike Rentals\bin\Debug\Beach Bike Rentals.pdb
+C:\Users\carlos\source\repos\Beach Bike Rentals\bin\Debug\Beach Bike Rentals.xml
+C:\Users\carlos\source\repos\Beach Bike Rentals\obj\Debug\Beach Bike Rentals.exe
+C:\Users\carlos\source\repos\Beach Bike Rentals\obj\Debug\Beach Bike Rentals.xml
+C:\Users\carlos\source\repos\Beach Bike Rentals\obj\Debug\Beach Bike Rentals.pdb

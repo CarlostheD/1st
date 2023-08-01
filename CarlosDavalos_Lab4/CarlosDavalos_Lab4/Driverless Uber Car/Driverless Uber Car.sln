@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Driverless Uber Car", "Driverless Uber Car.vbproj", "{5F54C704-E275-416B-9E7F-CF12C5C3061E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F54C704-E275-416B-9E7F-CF12C5C3061E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F54C704-E275-416B-9E7F-CF12C5C3061E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F54C704-E275-416B-9E7F-CF12C5C3061E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F54C704-E275-416B-9E7F-CF12C5C3061E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8AB05D5F-A935-45F1-A063-002B5F98BC15}
+	EndGlobalSection
+EndGlobal

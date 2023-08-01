@@ -1,0 +1,12 @@
+C:\Users\carlos\source\repos\Driverless Uber Car\obj\Debug\Driverless Uber Car.vbproj.AssemblyReference.cache
+C:\Users\carlos\source\repos\Driverless Uber Car\obj\Debug\Driverless_Uber_Car.frmDriverlessUberCar.resources
+C:\Users\carlos\source\repos\Driverless Uber Car\obj\Debug\Driverless_Uber_Car.Resources.resources
+C:\Users\carlos\source\repos\Driverless Uber Car\obj\Debug\Driverless Uber Car.vbproj.GenerateResource.cache
+C:\Users\carlos\source\repos\Driverless Uber Car\obj\Debug\Driverless Uber Car.vbproj.CoreCompileInputs.cache
+C:\Users\carlos\source\repos\Driverless Uber Car\bin\Debug\Driverless Uber Car.exe.config
+C:\Users\carlos\source\repos\Driverless Uber Car\bin\Debug\Driverless Uber Car.exe
+C:\Users\carlos\source\repos\Driverless Uber Car\bin\Debug\Driverless Uber Car.pdb
+C:\Users\carlos\source\repos\Driverless Uber Car\bin\Debug\Driverless Uber Car.xml
+C:\Users\carlos\source\repos\Driverless Uber Car\obj\Debug\Driverless Uber Car.exe
+C:\Users\carlos\source\repos\Driverless Uber Car\obj\Debug\Driverless Uber Car.xml
+C:\Users\carlos\source\repos\Driverless Uber Car\obj\Debug\Driverless Uber Car.pdb
