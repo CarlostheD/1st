@@ -1,0 +1,7 @@
+1. Total number of upper case alphabet: 5
+2. Total number of lower case alphabet: 51
+3. Total number of white space (blank, ‘
+’ and ‘	’): 20
+4. Total number of lines: 4
+5. Total number of digits: 4
+6. Total number any other type of characters: 81
