@@ -1,0 +1,12 @@
+C:\Users\carlos\source\repos\Latte Selection\bin\Debug\Latte Selection.exe.config
+C:\Users\carlos\source\repos\Latte Selection\bin\Debug\Latte Selection.exe
+C:\Users\carlos\source\repos\Latte Selection\bin\Debug\Latte Selection.pdb
+C:\Users\carlos\source\repos\Latte Selection\bin\Debug\Latte Selection.xml
+C:\Users\carlos\source\repos\Latte Selection\obj\Debug\Latte Selection.vbproj.AssemblyReference.cache
+C:\Users\carlos\source\repos\Latte Selection\obj\Debug\Latte_Selection.frmLatteSelection.resources
+C:\Users\carlos\source\repos\Latte Selection\obj\Debug\Latte_Selection.Resources.resources
+C:\Users\carlos\source\repos\Latte Selection\obj\Debug\Latte Selection.vbproj.GenerateResource.cache
+C:\Users\carlos\source\repos\Latte Selection\obj\Debug\Latte Selection.vbproj.CoreCompileInputs.cache
+C:\Users\carlos\source\repos\Latte Selection\obj\Debug\Latte Selection.exe
+C:\Users\carlos\source\repos\Latte Selection\obj\Debug\Latte Selection.xml
+C:\Users\carlos\source\repos\Latte Selection\obj\Debug\Latte Selection.pdb
